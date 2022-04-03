@@ -1,0 +1,20 @@
+@use "../../../styles/partials/variables" as *;
+
+.NavButton {
+  position: fixed;
+  bottom: 48px;
+  right: 24px;
+  background-color: $blue;
+  width: 56px;
+  height: 56px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: 0.2px 0.2px 5px 0 rgba($color: #000000, $alpha: 0.35);
+  cursor: pointer;
+
+  &__icon {
+    color: white;
+  }
+}
