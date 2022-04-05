@@ -16,6 +16,21 @@ function Dashboard() {
       description: "This is a project",
       image: "https://source.unsplash.com/random/400x400",
     },
+    {
+      name: "Project 3",
+      description: "This is a project",
+      image: "https://source.unsplash.com/random/400x400",
+    },
+    {
+      name: "Project 4",
+      description: "This is a project",
+      image: "https://source.unsplash.com/random/400x400",
+    },
+    {
+      name: "Project 5",
+      description: "This is a project",
+      image: "https://source.unsplash.com/random/400x400",
+    },
   ];
 
   return (

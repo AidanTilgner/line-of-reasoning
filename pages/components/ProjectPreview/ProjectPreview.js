@@ -1,7 +1,7 @@
 import styles from "./ProjectPreview.module.scss";
 import Image from "next/image";
 
-const ProjectPreview = ({ name, description, image }) => {
+const ProjectPreview = ({ name, image }) => {
   const src = image;
 
   return (
